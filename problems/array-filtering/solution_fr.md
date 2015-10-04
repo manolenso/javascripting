@@ -1,11 +1,12 @@
 ---
 
-# FILTERED!
+# FILTRÉ!
 
 Good job filtering that array.
 
 In the next challenge we will work on an example of accessing array values.
+Dans le challenge suivant nous travaillerons sur un exemple: comment accéder aux valeurs d'un tableaux.
 
-Run `javascripting` in the console to choose the next challenge.
+Lancer `javascripting` dans la console pour choisir le prochain challenge.
 
 ---
