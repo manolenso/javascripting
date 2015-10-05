@@ -42,7 +42,7 @@ var food = ['apple', 'pizza', 'pear'];
 
 Utiliser `console.log()` pour afficher la seconde valeur du tableau `food` dans le terminal.
 
-Verifier le code de l'exercice:
+Verifier le code de l'exercice en lancant cette commande:
 
 `javascripting verify accessing-array-values.js`
 
